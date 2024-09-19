@@ -1,2 +1,16 @@
-# Notes
-# MY NAME IS ROHIT KUMAR
+# Number Row Characters
+- ! Exclamation mark
+- @ Ampersat
+-  Hash
+- $ Dollar sign
+-  % percent
+- ^ Cirumflex
+-  & And symbol
+-   Asterisk
+-  ( Open or left paranthesis
+- [Instagram](https://www.instagram.com/)
+- [linkedin](https://ca.linkedin.com/)
+- [facebook](https://www.facebook.com/)
+- :blush:
+-  :smiley:
+-  :heart_eyes:
