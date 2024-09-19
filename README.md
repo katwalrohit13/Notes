@@ -8,9 +8,9 @@
 -  & And symbol
 -   Asterisk
 -  ( Open or left paranthesis
-- [Instagram](https://www.instagram.com/)
-- [linkedin](https://ca.linkedin.com/)
-- [facebook](https://www.facebook.com/)
-- :blush:
--  :smiley:
--  :heart_eyes:
+   - [Instagram](https://www.instagram.com/)
+   - [linkedin](https://ca.linkedin.com/)
+   - [facebook](https://www.facebook.com/)
+   - :blush:
+   -  :smiley:
+   -  :heart_eyes:
