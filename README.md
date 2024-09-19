@@ -9,7 +9,7 @@
 -   Asterisk
 -  ( Open or left paranthesis
    - [Instagram](https://www.instagram.com/)
-   - [linkedin](https://ca.linkedin.com/)
+   - [W3schools](https://www.w3schools.com/)
    - [facebook](https://www.facebook.com/)
    - :blush:
    -  :smiley:
