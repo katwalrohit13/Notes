@@ -1,6 +1,6 @@
 # Number Row Characters
 - ! Exclamation mark
-- @ Ampersat
+- @ Ampersat, at symbol
 -  Hash
 - $ Dollar sign
 -  % percent
