@@ -14,3 +14,4 @@
    - :blush:
    -  :smiley:
    -  :heart_eyes: 
+   [cli command](docs/cli.md)
